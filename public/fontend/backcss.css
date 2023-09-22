@@ -1,0 +1,44 @@
+input[type="file"]{
+	display: none;
+}
+label{
+	color: black;
+	text-align: center;
+	background-color: white;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	border-radius: 10px;
+	width: 100%;
+    height: 100%;
+	padding-left: 20px;
+	margin: auto;
+	font-size: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+
+	
+}
+.bo-rad-10 {border-radius: 10px;
+} 
+
+.txt10 {
+	font-family: Montserrat;
+	font-weight: 400;
+	font-size: 14px;
+	/* color: yellow; */
+}
+.sizefull {
+	width: 100%;
+	height: 100%;
+}
+
+.p-l-20 {padding-left: 20px;}
+
+input {
+	outline: none;
+	border: none !important;
+}
